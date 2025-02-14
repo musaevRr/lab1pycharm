@@ -1,2 +1,2 @@
 print("Hello, Bro!")
-print("MYSA")
+print("MYS")
